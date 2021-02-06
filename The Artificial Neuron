@@ -1,0 +1,10 @@
+Artificial Neuron:
+
+The biological neuron is simulated in an ANN by an activation function. In classification
+tasks (e.g. identifying spam e-mails) this activation function must have a “switch on”
+characteristic – in other words, once the input is greater than a certain value, the output
+should change state i.e. from 0 to 1, from -1 to 1 or from 0 to >0. This simulates the
+“turning on” of a biological neuron. A common activation function that is used is the
+sigmoid function: 
+
+f(x) = 1/(1+exp(-z))
