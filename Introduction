@@ -1,0 +1,33 @@
+Prequisites:
+1. Basic Python
+2. Numpy
+3. Matrix
+
+Installation:
+1. Python >= 3.5
+2. Numpy
+3. Sci-kit Learn
+
+What is Artificial Neural Network?
+Answer: Artificial neural networks (ANNs) are software implementations of the neuronal
+structure of our brains. Artificial neural networks attempt to simplify and mimic this brain behavior. They can be
+trained in a supervised or unsupervised manner. In a supervised ANN, the network is
+trained by providing matched input and output data samples, with the intention of getting
+the ANN to provide a desired output for a given input. An example is an e-mail spam
+filter – the input training data could be the count of various words in the body of the email, and the output training data would be a classification of whether the e-mail was
+truly spam or not. If many examples of e-mails are passed through the neural network
+this allows the network to learn what input data makes it likely that an e-mail is spam or
+not. This learning takes place be adjusting the weights of the ANN connections, but this
+will be discussed further in the next section. 
+
+
+What is the neural network?
+Answer: The neural network in a person’s brain is a hugely
+interconnected network of neurons, where the output of any given neuron may be the
+input to thousands of other neurons. Learning occurs by repeatedly activating certain
+neural connections over others, and this reinforces those connections. This
+makes them more likely to produce a desired outcome given a specified input. This
+learning involves feedback – when the desired outcome occurs, the neural connections
+causing that outcome becomes strengthened.
+
+
