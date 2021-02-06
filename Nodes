@@ -1,0 +1,6 @@
+Biological neurons are connected hierarchical networks, 
+with the outputs of some neurons being the inputs to others. 
+We can represent these networks as connected layers of nodes. 
+Each node takes multiple weighted inputs, 
+applies the activation function to the summation of these inputs,
+and in doing so generates an output. 
